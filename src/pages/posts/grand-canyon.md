@@ -7,7 +7,7 @@ excerpt: >-
   meters).
 date: '2019-03-10'
 thumb_img_path: images/photo-1573053986275-840ffc7cc685.jpeg
-content_img_path: images/8.jpg
+content_img_path: images/melodic-ant.jpeg
 template: post
 ---
 
