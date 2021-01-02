@@ -6,7 +6,7 @@ excerpt: >-
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 date: '2018-01-23'
 thumb_img_path: images/photo-1538481199705-c710c4e965fc.jpeg
-content_img_path: images/3.jpg
+content_img_path: images/cool-dolphin.jpeg
 template: post
 ---
 
