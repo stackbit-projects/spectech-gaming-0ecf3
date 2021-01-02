@@ -11,9 +11,16 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >
-      Spec Tech Gaming provides bespoke, built to order Gaming PCs to fit all
-      budgets and requirements.
+    content: >-
+      In hac habitasse platea dictumst. Phasellus blandit leo ut odio. Ut non
+      enim eleifend felis pretium feugiat. In enim justo, rhoncus ut, imperdiet
+      a, venenatis vitae, justo. In hac habitasse platea dictumst.
+
+
+      Praesent egestas tristique nibh. Praesent porttitor, nulla vitae posuere
+      iaculis, arcu nisl dignissim dolor, a pretium mi sem ut ipsum. Praesent
+      vestibulum dapibus nibh. Nullam sagittis. Duis lobortis massa imperdiet
+      quam.
     actions:
       - label: Contact Me
         url: /contact
