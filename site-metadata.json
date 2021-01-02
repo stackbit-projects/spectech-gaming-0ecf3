@@ -3,9 +3,9 @@
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
+        "title": "SpecTech Gaming",
         "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
+        "profile_img": "images/wclogo.svg",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
@@ -52,24 +52,10 @@
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "fa-github",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "fa-dev",
                 "new_window": true
             }
         ]
