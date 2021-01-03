@@ -1,10 +1,8 @@
 ---
 title: What is water cooling?
 excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
+  What IS water cooling? In this post, we will give you the answers you need to
+  make an informed decision on weather water cooling is right for you or not!
 date: '2021-01-03'
 thumb_img_path: images/photo-1587202372616-b43abea06c2a.jpeg
 content_img_path: images/panoramic-aspen.jpeg
