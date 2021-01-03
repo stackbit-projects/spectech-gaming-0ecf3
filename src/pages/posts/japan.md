@@ -11,29 +11,30 @@ content_img_path: images/panoramic-aspen.jpeg
 template: post
 ---
 
+So, **What is water cooling?** 
 It’s a question which puzzles plenty of gamers and computer users. What is water cooling is a question our tech support guys hear a lot. So, to help you out – here’s our beginners guide to explain the whats, the whys and the benefits.
 
 Let’s start with the basics. Water cooling is an extremely effective method of keeping your PC cool and quiet while it’s operating at its highest performance. As the water cooling system is much quieter than fan-cooled models, it’s an attractive solution to eradicating noise from your gaming set up.
 
 Here’s our guide to how it works.
 
-HOW WATER COOLING WORKS
+**HOW WATER COOLING WORKS**
 Traditional air-cooling systems operate on a simple principle – thermodynamics. This basically means that heat moves from warmer objects to cooler objects, and as the cooler object gets warmer, the warmer object gets cooler.
 
 This works by pumping cool water through the pipes past the components which are hot. The heat is then transferred from the component to the water, which in turn cools the component down.  The hot water is then pumped further along the pipe towards the radiator, which cools the water back down and expels the heat in the form of warm air.
 
-DIFFERENT TYPES OF LIQUID COOLING
+**DIFFERENT TYPES OF LIQUID COOLING**
 Although all types of liquid cooling operate on similar principles, there are two main ways in which they are implemented:
 
-AIO (ALL IN ONE) LIQUID COOLING SYSTEMS
+**AIO (ALL IN ONE) LIQUID COOLING SYSTEMS**
 AIO liquid cooling systems consist of a pump, a block and a sealed radiator. AIO systems are the simplest way of integrating water cooling into your rig and are unlikely to cause problems during installation or use. The system is pre-sealed, which means that you won’t need to add the liquid yourself.
 
 AIO liquid cooling systems tend to have fixed configurations, cooling only the CPU (or sometimes the GPU) as opposed to the entire system. They are a low-cost, hassle-free way to keep your PC’s noise and temperature levels in-check.
 
 If decide to opt for an All in One water cooling system for your rig, make sure you take note of the size. AIOs come in a range of sizes from 92mm to 360mm, so be sure to check you’re buying the correct size for your CPU or GPU.
 
-ebuyer knowledge hub tech questions answered
-CUSTOM INTERNAL LIQUID COOLING SYSTEMS
+
+**CUSTOM INTERNAL LIQUID COOLING SYSTEMS**
 Although radiators for custom liquid cooling systems are available in all the standard AIO sizes, they can also be found in extremely small or oversized formats. You can also choose to integrate non-CPU components into the system, cooling the GPU and even disk drives, if you wish. Multiple radiators can be combined in different positions to counteract problem areas, and you generally have full control of your cooling setup.
 
 
@@ -48,7 +49,7 @@ Coolant, the liquid which pulls heat away from your system and towards your radi
 Fans, which pull or push air through or from the radiator, dispersing any heat into the air outside.
 A custom water cooling system can be more complicated and more expensive than an AIO set-up, and they need to be thoroughly tested for water-tightness to prevent damage to your PC. However, if designed and installed carefully, they are unbeatable in terms of cooling performance.
 
-WATER COOLING VS AIR COOLING
+**WATER COOLING VS AIR COOLING**
 Both water cooling and air cooling are solid options, but which is the right choice for you?
 
 First of all, let’s consider aesthetics. Custom liquid cooling solutions can add a real ‘wow-factor’ to the visuals of your rig, especially when installed in transparent with artful lighting. If you’re going to splash out on the perfect gaming rig you want it to look the part, after all!
