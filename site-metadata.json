@@ -6,7 +6,7 @@
         "title": "SpecTech Gaming",
         "tagline": "Header Tagline",
         "profile_img": "images/wclogo.svg",
-        "background": "light",
+        "background": "dark",
         "has_nav": true,
         "nav_links": [
             {
