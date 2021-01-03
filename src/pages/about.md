@@ -5,12 +5,13 @@ img_path: images/christian-wiediger-kf_korybd1g-unsplash.jpg
 template: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**SpecTech Gaming** is a Computer Gaming Hardware company established in [Carrickfergus](https://en.wikipedia.org/wiki/Carrickfergus), Northern Ireland. **Daryl Moore**, The founder of SpecTech Gaming had spent many years as an avid gamer and enjoyed building PCs
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+After working for many years in computer technology companies, and the onset of the Coronvirus, Daryl ended up becoming furlough from his own place of work. During this time he turned his focus to helping others who wanted to enter the world of PC gaming, but didn't have the knowledge to take the plunge for fear of selecting the wrong builds!
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+After many years of searching for parts, knowledge and assistance in the world of gaming, Daryl came to realise that the support for new PC gamers just wasn't available. 
+Because of this, and seeing the opportunity to not only provide the insight, but also craft the systems for users, and provide information on the gaming world, he started SpecTech Gaming in the hopes of helping more people get started with PC gaming in the most informed and cost effective way.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+>The only thing to do with good advice is to pass it on. It is never of any use to oneself.. <cite>Oscar Wilde</cite>
 
 *Thank You for reading!*
