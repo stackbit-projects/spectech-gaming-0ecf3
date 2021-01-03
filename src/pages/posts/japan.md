@@ -3,7 +3,7 @@ title: What is water cooling?
 excerpt: >-
   What IS water cooling? In this post, we will give you the answers you need to
   make an informed decision. Is the extra cost for water cooling worth it?
-date: '2021-01-03'
+date: ''
 thumb_img_path: images/photo-1587202372616-b43abea06c2a.jpeg
 content_img_path: images/panoramic-aspen.jpeg
 template: post
