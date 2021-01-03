@@ -5,7 +5,7 @@ excerpt: >-
   architecture. Largely of wood, traditional housing and many temple buildings
   see the use of tatami mats and sliding doors that break down the distinction
   between rooms and indoor and outdoor space.
-date: '2019-03-24'
+date: '2021-01-24'
 thumb_img_path: images/photo-1587202372616-b43abea06c2a.jpeg
 content_img_path: images/panoramic-aspen.jpeg
 template: post
