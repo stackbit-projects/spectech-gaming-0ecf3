@@ -1,6 +1,6 @@
 ---
 title: About SpecTech Gaming
-subtitle: This is a short page about me and my work.
+subtitle: Carrickfergus Castle
 img_path: images/k-mitch-hodge-ZsPZRAQ8DC4-unsplash.jpg
 template: page
 ---
