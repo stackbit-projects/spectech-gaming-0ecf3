@@ -1,7 +1,7 @@
 ---
 title: About SpecTech Gaming
 subtitle: This is a short page about me and my work.
-img_path: images/christian-wiediger-kf_korybd1g-unsplash.jpg
+img_path: images/k-mitch-hodge-ZsPZRAQ8DC4-unsplash.jpg
 template: page
 ---
 
