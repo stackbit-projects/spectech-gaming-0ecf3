@@ -19,7 +19,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: number
-        name: lorem-ipsum
+        name: Con
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
