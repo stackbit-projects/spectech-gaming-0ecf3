@@ -20,7 +20,7 @@ sections:
         is_required: true
       - input_type: number
         name: Contact Number (optional)
-        label: lorem-ipsum
+        label: Contact Number (optional)
         default_value: lorem-ipsum
         options: []
         is_required: false
