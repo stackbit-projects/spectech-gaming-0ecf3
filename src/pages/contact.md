@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact us
 hide_title: false
 sections:
   - section_id: contact-form
