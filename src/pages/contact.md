@@ -25,7 +25,7 @@ sections:
         options:
           - New PC Build
           - Upgrade to existing Build
-          - Other
+          - Cleaning or Repairs
       - input_type: textarea
         name: message
         label: Message
