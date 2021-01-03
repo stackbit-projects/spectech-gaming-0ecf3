@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - New PC Build
-          - Sponsorship
+          - Upgrade to existing Build
           - Other
       - input_type: textarea
         name: message
