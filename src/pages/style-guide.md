@@ -1,6 +1,8 @@
 ---
 title: Gaming PCs
-subtitle: 'This '
+subtitle: >-
+  This Gaming PC guide will give you some insight into the products available,
+  and more information on their intended use.
 template: page
 ---
 
