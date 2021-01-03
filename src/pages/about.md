@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About SpecTech Gaming
 subtitle: This is a short page about me and my work.
 img_path: images/christian-wiediger-kf_korybd1g-unsplash.jpg
 template: page
