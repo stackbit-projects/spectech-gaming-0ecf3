@@ -9,7 +9,7 @@ date: '2021-01-03'
 thumb_img_path: images/photo-1587202372616-b43abea06c2a.jpeg
 content_img_path: images/panoramic-aspen.jpeg
 template: post
-subtitle: 'Let''s get an understanding of water cooling, and the differences.'
+subtitle: ''
 ---
 
 So, **What is water cooling?** 
