@@ -26,6 +26,7 @@ sections:
           - New PC Build
           - Upgrade to existing Build
           - Cleaning or Repairs
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
