@@ -40,7 +40,7 @@
             {
                 "label": "Twitter",
                 "url": "https://www.facebook.com/SpecTechGaming",
-                "style": "button",
+                "style": "link",
                 "icon_class": "fa-facebook",
                 "new_window": true
             },
