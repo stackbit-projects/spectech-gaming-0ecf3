@@ -5,7 +5,8 @@ img_path: images/k-mitch-hodge-ZsPZRAQ8DC4-unsplash.jpg
 template: page
 ---
 
-**SpecTech Gaming** is a Computer Gaming Hardware company established in [Carrickfergus](https://en.wikipedia.org/wiki/Carrickfergus), Northern Ireland.  [Carrickfergus Castle](https://en.wikipedia.org/wiki/Carrickfergus_Castle) Can be seen above **Daryl Moore**, The founder of SpecTech Gaming had spent many years as an avid gamer and enjoyed building PCs
+**SpecTech Gaming** is a Computer Gaming Hardware company established in [Carrickfergus](https://en.wikipedia.org/wiki/Carrickfergus), Northern Ireland. The beautiful, [Carrickfergus Castle],(https://en.wikipedia.org/wiki/Carrickfergus_Castle) Can be seen above. 
+**Daryl Moore**, The founder of SpecTech Gaming had spent many years as an avid gamer and enjoyed building PCs
 
 After working for many years in computer technology companies, and the onset of the Coronvirus, Daryl ended up becoming furlough from his own place of work. During this time he turned his focus to helping others who wanted to enter the world of PC gaming, but didn't have the knowledge to take the plunge for fear of selecting the wrong builds!
 
