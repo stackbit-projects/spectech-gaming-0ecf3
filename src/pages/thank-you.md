@@ -4,6 +4,6 @@ img_path: images/thank-you.jpg
 template: page
 ---
 
-Thank you for contacting me! I will get back in touch with you soon.
+Thanks for contacting SpecTech Gaming. We will be in touch with you shortly!
 
 **Have a great day!**
