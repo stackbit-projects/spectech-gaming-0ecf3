@@ -21,7 +21,7 @@ sections:
       - input_type: number
         name: Contact Number (optional)
         label: Contact Number (optional)
-        default_value: 'y'
+        default_value: Your contact number
         options: []
         is_required: false
         type: form_field
