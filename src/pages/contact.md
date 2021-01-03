@@ -26,7 +26,7 @@ sections:
           - New PC Build
           - Upgrade to existing Build
           - Cleaning or Repairs
-          - Error on Site
+          - Error on Site / Problem contacting
       - input_type: textarea
         name: message
         label: Message
