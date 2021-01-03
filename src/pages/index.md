@@ -22,7 +22,7 @@ sections:
       vestibulum dapibus nibh. Nullam sagittis. Duis lobortis massa imperdiet
       quam.
     actions:
-      - label: Contact Me
+      - label: Contact US
         url: /contact
         style: button
   - section_id: recent-posts
